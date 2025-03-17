@@ -7,5 +7,6 @@ public class Class01 {
         if(a > b) {
             System.out.println("krt esfdf: " + (a + b));
         }
+        System.out.println("DONE");
     }
 }
